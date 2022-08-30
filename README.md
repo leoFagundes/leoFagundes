@@ -18,6 +18,7 @@ acredito que devemos aprender cada vez mais e descobrir novas tecnologias que se
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="./to_read.me/gifLF.gif">
+  ![gifLF](https://github.com/leoFagundes/leoFagundes/blob/main/to_readme/gifLF.gif)
 </div>
 
 ##
