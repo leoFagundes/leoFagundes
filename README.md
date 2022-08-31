@@ -1,4 +1,4 @@
-### **Oieee!!! Me chamo Leonardo Fagundes**
+### **Oieee!!! Me chamo Leonardo Fagundes** <img align="right" alt="Leo-code" height="160" width="200" style="border-radius:50px;" src="code.gif">
 <br>
 Seja bem-vindo(a) a meu humilde perfil. 😁<br><br>
 Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas,<br>
@@ -17,7 +17,6 @@ acredito que devemos aprender cada vez mais e descobrir novas tecnologias que se
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Leo-code" height="160" style="border-radius:50px;" src="code.gif">
 </div>
   
 
