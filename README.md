@@ -1,4 +1,4 @@
-### **Oieee!!! Me chamo Leonardo Fagundes** <img align="right" alt="Leo-code" height="160" width="200" style="border-radius:50px;" src="code.gif">
+### **Oieee!!! Me chamo Leonardo Fagundes** 
 <br>
 Seja bem-vindo(a) a meu humilde perfil. 😁<br><br>
 Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas,<br>
