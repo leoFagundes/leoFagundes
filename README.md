@@ -23,6 +23,7 @@ acredito que devemos aprender cada vez mais e descobrir novas tecnologias que se
 
 ##
 
+
 <div> 
   <a href="https://www.instagram.com/leo.fagundes.50/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leofagundes2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
