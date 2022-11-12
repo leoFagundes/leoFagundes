@@ -3,7 +3,7 @@
 Seja bem-vindo(a) a meu humilde perfil. 😁<br><br>
 Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas,<br>
 acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.<br><br>
-**Confira o meu Portfólio ->** (l1nq.com/portfolio-LeoFagundesx)
+<strong>Confira o meu Portfólio</strong> -> <a href="https://deluxe-starlight-730d2a.netlify.app">Portfólio</a>
 <br><br>
 <i>🔰 For a world like Sword Art Online 🔰</i>
 <br><br>
