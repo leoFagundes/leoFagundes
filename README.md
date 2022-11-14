@@ -11,8 +11,8 @@ acredito que devemos aprender cada vez mais e descobrir novas tecnologias que se
 
 <div align="center">
   <a href="https://github.com/leoFagundes">
-  <img height="161em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
