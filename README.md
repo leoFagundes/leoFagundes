@@ -3,9 +3,8 @@
 Seja bem-vindo(a) a meu humilde perfil. 😁<br><br>
 Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas,<br>
 acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.<br><br>
-<strong>Confira o meu Portfólio</strong> -> <a href="https://portfolio-leofagundes.vercel.app/">link</a> 
+<strong>Confira o meu Portfólio</strong> <a href="https://portfolio-leofagundes.vercel.app/">aqui!</a> 
 <br><br>
-<i>🔰 For a world like Sword Art Online 🔰</i>
 <br><br>
 
 <div align="center">
