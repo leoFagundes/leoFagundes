@@ -5,8 +5,6 @@ Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas
 acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.<br><br>
 <strong>Confira o meu Portfólio</strong> <a href="https://portfolio-leofagundes.vercel.app/">aqui!</a> 
 <br><br>
-<br><br>
-
 <div align="center">
   <a href="https://github.com/leoFagundes">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
