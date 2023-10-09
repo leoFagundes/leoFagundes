@@ -1,4 +1,4 @@
-### **Oieee!!! Me chamo Leonardo Fagundes** 
+### **Oieee!!! Meu nome é Leonardo Fagundes** 
 <br>
 Seja bem-vindo(a) a meu humilde perfil. 😁<br><br>
 Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas,<br>
