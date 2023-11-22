@@ -9,8 +9,8 @@ Meu portfólio de projetos ><a href="https://leofagundes.vercel.app/" target="_b
 <img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,django,js,ts,react,nextjs,html,css,sass,bootstrap,tailwind,git,mysql"/>
 
 ### Entre em contato
-[<img alt="Icone Html" src="https://skillicons.dev/icons?i=linkedin"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img alt="Icone Html" src="https://skillicons.dev/icons?i=instagram"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img alt="Icone Html" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/leonardo-fagundes-5a348a248/)
+[<img alt="Icone Html" src="https://skillicons.dev/icons?i=instagram"/>](https://www.instagram.com/leo.fagundes.50/)
 
 ### Git stats
 <div align="center">
