@@ -3,7 +3,7 @@
 
 Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
 
-Meu portfólio de projetos ><a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`link`</a><
+Meu <a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
 ### Minhas Habilidades
 <img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,django,js,ts,react,nextjs,html,css,sass,bootstrap,tailwind,git,mysql"/>
@@ -12,7 +12,7 @@ Meu portfólio de projetos ><a href="https://leofagundes.vercel.app/" target="_b
 [<img alt="Icone Html" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/leonardo-fagundes-5a348a248/)
 [<img alt="Icone Html" src="https://skillicons.dev/icons?i=instagram"/>](https://www.instagram.com/leo.fagundes.50/)
 
-### Git stats
+### Git Stats
 <div align="center">
   <a href="https://github.com/leoFagundes">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
