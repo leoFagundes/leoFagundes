@@ -17,9 +17,9 @@ Com django e next:
 [<img alt="Icone Html" src="https://skillicons.dev/icons?i=instagram"/>](https://www.instagram.com/leo.fagundes.50/)
 
 ### Git Stats
-<div align="center">
+<div align="center" class="custom-border">
   <a href="https://github.com/leoFagundes">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
 </div>
 
