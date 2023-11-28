@@ -22,4 +22,3 @@ Com django e next:
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
 </div>
-
