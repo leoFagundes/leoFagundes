@@ -6,7 +6,7 @@ Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas nov
 Confira meu <a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
 
 ### Minhas Habilidades
-<img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,js,ts,react,html,css,sass,bootstrap,tailwind,git,mysql"/>
+<img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,js,ts,react,html,css,sass,bootstrap,tailwind,styledcomponents,git,mysql"/>
 <!--
 Com django e next:
 <img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,django,js,ts,react,nextjs,html,css,sass,bootstrap,tailwind,git,mysql"/>
