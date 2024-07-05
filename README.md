@@ -16,6 +16,8 @@ Confira meu <a href="https://leofagundes.vercel.app/" target="_blank" style="tex
   <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Icone Flask" src="https://skillicons.dev/icons?i=flask"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
+</div>
+<div style="display: inline-block">
   <a href="https://sass-lang.com/" target="_blank"><img alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img alt="Icone Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/></a>
