@@ -12,10 +12,10 @@ Confira meu <a href="https://leofagundes.vercel.app/" target="_blank" style="tex
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
   <a href="https://reactjs.org/" target="_blank"><img alt="Icone React" src="https://skillicons.dev/icons?i=react"/></a>
   <a href="https://reactjs.org/" target="_blank"><img alt="Icone Next" src="https://skillicons.dev/icons?i=nextjs"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
   <a href="https://docs.python.org/3/" target="_blank"><img alt="Icone Python" src="https://skillicons.dev/icons?i=py"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Icone Flask" src="https://skillicons.dev/icons?i=flask"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
 </div>
 <div style="display: inline-block">
   <a href="https://sass-lang.com/" target="_blank"><img alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/></a>
