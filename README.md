@@ -32,7 +32,7 @@ Confira meu <a href="https://leofagundes.vercel.app/" target="_blank" style="tex
 <a href="https://www.linkedin.com/in/leonardo-fagundes-5a348a248/" target="_blank"><img alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.instagram.com/leo.fagundes.50/" target="_blank"><img alt="Icone Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
 
-### Git Stats 
+### <hr />
 <div align="center" class="custom-border">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
