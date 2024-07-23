@@ -1,12 +1,18 @@
 ## Seja bem-vindo(a) a meu perfil! 
-<div>
-  <img src="https://leofagundes.s3.amazonaws.com/logo.png" alt="logo"  width="350px" align="right">
+
+<div style="display: inline-block">
+  <img align="left" src="https://leofagundes.s3.amazonaws.com/logo.png" alt="logo"  width="200px">
+  <div align="left">
+    <br><br>
+    Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+  </div>
 </div>
 
-
-Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+<br>
 
 Confira meu <a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
+
+<br>
 
 ### Minhas Habilidades
 <!--<img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,django,js,ts,react,nextjs,html,css,sass,bootstrap,tailwind,git,mysql"/>-->
