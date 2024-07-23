@@ -4,6 +4,7 @@
   <img align="left" src="https://leofagundes.s3.amazonaws.com/logo.png" alt="logo"  width="200px">
   <div align="left">
     <br><br>
+    
     Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
   </div>
 </div>
