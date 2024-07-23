@@ -13,13 +13,13 @@ Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas nov
 ### Minhas Habilidades
 <!--<img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,django,js,ts,react,nextjs,html,css,sass,bootstrap,tailwind,git,mysql"/>-->
 <div style="display: inline-block">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Icone JavaScript" src="https://leofagundes.s3.amazonaws.com/skills/javascript.svg" width="55px"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Icone TypeScript" src="https://leofagundes.s3.amazonaws.com/skills/typescript.svg" width="55px"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img alt="Icone React" src="https://leofagundes.s3.amazonaws.com/skills/react.svg" width="55px"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img alt="Icone Next" src="https://leofagundes.s3.amazonaws.com/skills/next.svg" width="55px"/></a>
-  <a href="https://docs.python.org/3/" target="_blank"><img alt="Icone Python" src="https://leofagundes.s3.amazonaws.com/skills/python.svg" width="55px"/></a>
-  <a href="https://redux.js.org/" target="_blank"><img alt="Icone Redux" src="https://leofagundes.s3.amazonaws.com/skills/redux.svg" width="55px"/></a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img alt="Icone Figma" src="https://leofagundes.s3.amazonaws.com/skills/node.svg" width="55px"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Icone JavaScript" src="https://leofagundes.s3.amazonaws.com/skills-svg/javascript.svg" width="55px"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Icone TypeScript" src="https://leofagundes.s3.amazonaws.com/skills-svg/typescript.svg" width="55px"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img alt="Icone React" src="https://leofagundes.s3.amazonaws.com/skills-svg/react.svg" width="55px"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img alt="Icone Next" src="https://leofagundes.s3.amazonaws.com/skills-svg/next.svg" width="55px"/></a>
+  <a href="https://docs.python.org/3/" target="_blank"><img alt="Icone Python" src="https://leofagundes.s3.amazonaws.com/skills-svg/python.svg" width="55px"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img alt="Icone Redux" src="https://leofagundes.s3.amazonaws.com/skills-svg/redux.svg" width="55px"/></a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img alt="Icone Figma" src="https://leofagundes.s3.amazonaws.com/skills-svg/node.svg" width="55px"/></a>
 
   <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
@@ -31,13 +31,13 @@ Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas nov
   <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Icone Flask" src="https://skillicons.dev/icons?i=flask"/></a>-->
 </div>
 <div style="display: inline-block">
-  <a href="https://sass-lang.com/" target="_blank"><img alt="Icone Sass" src="https://leofagundes.s3.amazonaws.com/skills/sass.svg" width="55px"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://leofagundes.s3.amazonaws.com/skills/bootstrap.svg" width="55px"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img alt="Icone Tailwind CSS" src="https://leofagundes.s3.amazonaws.com/skills/tailwind.svg" width="55px"/></a>
-  <a href="https://styled-components.com/" target="_blank"><img alt="Icone Styled Components" src="https://leofagundes.s3.amazonaws.com/skills/styled-components.svg" width="55px"/></a>
-  <a href="https://help.figma.com/hc/en-us" target="_blank"><img alt="Icone Jest" src="https://leofagundes.s3.amazonaws.com/skills/jest.svg" width="55px"/></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img alt="Icone MySQL" src="https://leofagundes.s3.amazonaws.com/skills/sql.svg" width="55px"/></a>
-  <a href="https://help.figma.com/hc/en-us" target="_blank"><img alt="Icone Figma" src="https://leofagundes.s3.amazonaws.com/skills/figma.svg" width="55px"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img alt="Icone Sass" src="https://leofagundes.s3.amazonaws.com/skills-svg/sass.svg" width="55px"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://leofagundes.s3.amazonaws.com/skills-svg/bootstrap.svg" width="55px"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img alt="Icone Tailwind CSS" src="https://leofagundes.s3.amazonaws.com/skills-svg/tailwind.svg" width="55px"/></a>
+  <a href="https://styled-components.com/" target="_blank"><img alt="Icone Styled Components" src="https://leofagundes.s3.amazonaws.com/skills-svg/styled-components.svg" width="55px"/></a>
+  <a href="https://help.figma.com/hc/en-us" target="_blank"><img alt="Icone Jest" src="https://leofagundes.s3.amazonaws.com/skills-svg/jest.svg" width="55px"/></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img alt="Icone MySQL" src="https://leofagundes.s3.amazonaws.com/skills-svg/sql.svg" width="55px"/></a>
+  <a href="https://help.figma.com/hc/en-us" target="_blank"><img alt="Icone Figma" src="https://leofagundes.s3.amazonaws.com/skills-svg/figma.svg" width="55px"/></a>
   
   <!--<a href="https://sass-lang.com/" target="_blank"><img alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/></a>
