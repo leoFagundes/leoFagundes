@@ -4,14 +4,13 @@
   <img align="left" src="https://leofagundes.s3.amazonaws.com/logo.png" alt="logo"  width="200px">
   <div align="left">
     <br><br>
-    
-    Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+    Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
   </div>
 </div>
 
 <br>
 
-Confira meu <a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`portfólio`</a> de projetos
+Portfólio: <a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`https://leofagundes.vercel.app/`</a>
 
 <br>
 
