@@ -1,4 +1,4 @@
-## Seja bem-vindo(a) humilde perfil! <img src="https://leofagundes.s3.amazonaws.com/favicon.svg" alt="logo-LF" min-width="200px" max-width="200px" width="200px" align="right"> 
+## Seja bem-vindo(a) ao meu perfil! <img src="https://leofagundes.s3.amazonaws.com/favicon.svg" alt="logo-LF" min-width="200px" max-width="200px" width="200px" align="right"> 
 
 <!-- 
 <img src="https://leofagundes.s3.amazonaws.com/favicon.svg" alt="logo-LF" min-width="150px" max-width="150px" width="150px" align="right"> 
