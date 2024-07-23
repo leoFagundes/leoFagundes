@@ -1,34 +1,28 @@
-## Seja bem-vindo(a) a meu perfil! 
+## Seja bem-vindo(a) humilde perfil! <img src="https://leofagundes.s3.amazonaws.com/favicon.svg" alt="logo-LF" min-width="200px" max-width="200px" width="200px" align="right"> 
 
-<div style="display: inline-block">
-  <img align="left" src="https://leofagundes.s3.amazonaws.com/logo.png" alt="logo"  width="200px">
-  <div align="left">
-    <br><br>
-    Sou estudante de Ciência da Computação e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
-  </div>
-</div>
+<!-- 
+<img src="https://leofagundes.s3.amazonaws.com/favicon.svg" alt="logo-LF" min-width="150px" max-width="150px" width="150px" align="right"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+-->
 
-<br>
 
-Portfólio: <a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`https://leofagundes.vercel.app/`</a>
+Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
 
-<br>
+<!-- Portfólio: <a href="https://leofagundes.vercel.app/" target="_blank" style="text-decoration: none; color: #ff5733;">`https://leofagundes.vercel.app/`</a> -->
 
 ### Minhas Habilidades
 <!--<img alt="Icone Html" src="https://skillicons.dev/icons?i=py,flask,django,js,ts,react,nextjs,html,css,sass,bootstrap,tailwind,git,mysql"/>-->
-<div style="display: flex">
+<div style="display: inline-block">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/></a>
   <a href="https://reactjs.org/" target="_blank"><img alt="Icone React" src="https://skillicons.dev/icons?i=react"/></a>
   <a href="https://reactjs.org/" target="_blank"><img alt="Icone Next" src="https://skillicons.dev/icons?i=nextjs"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/></a>
   <a href="https://docs.python.org/3/" target="_blank"><img alt="Icone Python" src="https://skillicons.dev/icons?i=py"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Icone Flask" src="https://skillicons.dev/icons?i=flask"/></a>
 </div>
 <div style="display: inline-block">
-  <div></div>
-  <div></div>
   <a href="https://sass-lang.com/" target="_blank"><img alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img alt="Icone Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/></a>
@@ -39,13 +33,16 @@ Portfólio: <a href="https://leofagundes.vercel.app/" target="_blank" style="tex
   <a href="https://help.figma.com/hc/en-us" target="_blank"><img alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/></a>
 </div>
 
-### Entre em contato
+### Contato
 
-<a href="https://www.linkedin.com/in/leonardo-fagundes-5a348a248/" target="_blank"><img alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://www.instagram.com/leo.fagundes.50/" target="_blank"><img alt="Icone Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="leofagundes.dev.br"><img src="https://leofagundes.s3.amazonaws.com/portfolio+-+card.png" alt="portfolio - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
+<a href="https://www.linkedin.com/in/leonardo-fagundes-5a348a248/"><img src="https://leofagundes.s3.amazonaws.com/linkedin+-+card.png" alt="portfolio - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
+<a href="https://www.instagram.com/leo.fagundes.50/"><img src="https://leofagundes.s3.amazonaws.com/instagram+-+card.png" alt="instagram - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
 
-<!-- <div align="center" class="custom-border">
+<br>
+
+### <hr />
+<div align="center" class="custom-border">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
-</div>  -->
-
+</div> 
