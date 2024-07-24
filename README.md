@@ -56,9 +56,10 @@ Sou estudante de `Ciência da Computação` e apaixonado por aprender coisas nov
 <a href="https://www.linkedin.com/in/leonardo-fagundes-5a348a248/" target="_blank"><img src="https://leofagundes.s3.amazonaws.com/linkedin+-+card.png" alt="portfolio - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
 <a href="https://www.instagram.com/leo.fagundes.50/" target="_blank"><img src="https://leofagundes.s3.amazonaws.com/instagram+-+card.png" alt="instagram - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
 
-<br>
+<br><br>
 
-### <hr />
+----
+
 <div align="center" class="custom-border">
   <img height="181em" src="https://github-readme-stats.vercel.app/api?username=leoFagundes&show_icons=true&bg_color=0F0F0F&title_color=01A66B&text_color=fff&icon_color=01A66B&border_color=01A66B&hide_rank=true&include_all_commits=true&count_private=true"/>
   <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&card_width&layout=compact&langs_count=7&bg_color=0F0F0F&title_color=01A66B&text_color=fff&icon_color=01A66B&border_color=01A66B&count_private=true"/>
