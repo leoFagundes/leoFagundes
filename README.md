@@ -30,6 +30,7 @@ Sou estudante de <strong>Ciência da Computação</strong> e apaixonado por apre
   <summary><strong>Contato</strong></summary>
   
   <br>
+  
   <a href="https://leofagundes.dev.br" target="_blank"><img src="https://leofagundes.s3.amazonaws.com/portfolio+-+card.png" alt="portfolio - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
   <a href="https://www.linkedin.com/in/leonardo-fagundes-5a348a248/" target="_blank"><img src="https://leofagundes.s3.amazonaws.com/linkedin+-+card.png" alt="portfolio - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
   <a href="https://www.instagram.com/leo.fagundes.50/" target="_blank"><img src="https://leofagundes.s3.amazonaws.com/instagram+-+card.png" alt="instagram - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
