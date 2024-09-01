@@ -38,7 +38,7 @@ Sou estudante de <strong>Ciência da Computação</strong> e apaixonado por apre
   <br><br>
 </details>
 
-<details open>
+<details>
   <summary><strong>Git Status</strong></summary>
   
   <br>
