@@ -36,7 +36,7 @@ Sou estudante de <strong>Ciência da Computação</strong> e apaixonado por apre
   <a href="https://www.instagram.com/leo.fagundes.50/" target="_blank"><img src="https://leofagundes.s3.amazonaws.com/instagram+-+card.png" alt="instagram - card" min-width="100px" max-width="100px" width="100px" align="left"></a>
 
   <br><br>
-</details>
+</details open>
 
 <details>
   <summary><strong>Git Status</strong></summary>
