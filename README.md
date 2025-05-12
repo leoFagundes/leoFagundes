@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu perfil! <img src="https://leofagundes.s3.amazonaws.com/lf.svg" alt="logo-LF" min-width="200px" max-width="200px" width="200px" align="right"> 
 
-Sou formado em <strong>Ciência da Computação</strong> e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+Sou formado em <strong>Ciência da Computação</strong> e apaixonado por aprender novas tecnologias, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
 
 <details open>
   <summary><strong>Minhas Habilidades</strong></summary>
