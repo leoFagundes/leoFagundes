@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu perfil! <img src="https://leofagundes.s3.amazonaws.com/lf.svg" alt="logo-LF" min-width="200px" max-width="200px" width="200px" align="right"> 
 
-Sou estudante de <strong>Ciência da Computação</strong> e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+Sou formado em <strong>Ciência da Computação</strong> e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
 
 <details open>
   <summary><strong>Minhas Habilidades</strong></summary>
@@ -38,7 +38,9 @@ Sou estudante de <strong>Ciência da Computação</strong> e apaixonado por apre
   <br><br>
 </details open>
 
-<details open>
+<!--
+
+<details close>
   <summary><strong>Git Status</strong></summary>
   
   <br>
@@ -48,3 +50,5 @@ Sou estudante de <strong>Ciência da Computação</strong> e apaixonado por apre
     <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoFagundes&card_width&layout=compact&langs_count=7&bg_color=0F0F0F&title_color=01A66B&text_color=fff&icon_color=01A66B&border_color=01A66B&count_private=true"/>
   </div> 
 </details>
+
+-->
