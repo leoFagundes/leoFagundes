@@ -2,7 +2,7 @@
 
 Sou formado em <strong>Ciência da Computação</strong> e apaixonado por aprender novas tecnologias, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
 
-<details open>
+<!-- <details open>
   <summary><strong>Minhas Habilidades</strong></summary>
   
   <br>
@@ -24,7 +24,7 @@ Sou formado em <strong>Ciência da Computação</strong> e apaixonado por aprend
     <a href="https://dev.mysql.com/doc/" target="_blank"><img alt="Icone MySQL" src="https://leofagundes.s3.amazonaws.com/skills-svg/sql.svg" width="55px"/></a>
     <a href="https://help.figma.com/hc/en-us" target="_blank"><img alt="Icone Figma" src="https://leofagundes.s3.amazonaws.com/skills-svg/figma.svg" width="55px"/></a>
   </div>
-</details>
+</details> -->
 
 <details open>
   <summary><strong>Contato</strong></summary>
